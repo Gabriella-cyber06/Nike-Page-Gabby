@@ -1,4 +1,4 @@
-import headerLogo from '../assets/images/header-Logo.svg'
+import headerLogo from '../assets/images/header-logo.svg'
 import { navLinks } from '../constants'
 import { hamburger, close } from '../assets/icons'
 import { useState } from 'react'
